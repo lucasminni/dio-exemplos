@@ -27,13 +27,17 @@ public class Cozinheiro{
         prepararVitamina();
     }
 
-    public void selecionarIngredientesLacnhe(){
+    public void selecionarIngredientesLanche(){
         System.out.println("SELECIONADO O PÃO, SALADA, OVO E CARNE");
     }
 
     public void selecionarIngredientesVitamina(){
         System.out.println("SELECIONADO FRUTA, LEITE E SUCO");
     }
+
+    public void lavarIngredientes() {
+		System.out.println("LAVANDO INGREDIENTES");
+	}
 
     public void baterVitaminaNoLiquidificador(){
         System.out.println("BATENDO A VITAMINA NO LIQUIDIFICADOR");

@@ -9,7 +9,7 @@ public class Cliente {
         System.out.println("FAZENDO PEDIDO");
     }
 
-    public void pegarConta(){
+    public void pagarConta(){
         System.out.println("PAGANDO CONTA");
     }
 
