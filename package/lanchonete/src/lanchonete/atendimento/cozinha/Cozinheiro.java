@@ -28,7 +28,7 @@ public class Cozinheiro{
     }
 
     private void selecionarIngredientesLanche(){
-        System.out.println("SELECIONADO O PÃO, SALADA, OVO E CARNE");
+        System.out.println("SELECIONADO PÃO, SALADA, OVO E CARNE");
     }
 
     private void selecionarIngredientesVitamina(){
