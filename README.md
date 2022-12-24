@@ -1,2 +1,0 @@
-# dio-exemplos
-Exemplos
